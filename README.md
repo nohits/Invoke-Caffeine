@@ -1,5 +1,5 @@
 # Invoke-Caffeine
-Caffeine keeps your computer awake and doesn't allow it to sleep or the screensaver to activate.
+Caffeine keeps your computer awake and doesn't allow it to sleep or its screensaver to activate.
 
 This script simulates a harmless keystroke in the background every few minutes. This function will not interfere with normal operation.
 

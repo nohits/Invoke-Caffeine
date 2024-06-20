@@ -3,7 +3,7 @@ Caffeine keeps your computer awake and doesn't allow it to sleep or its screensa
 
 This script simulates a harmless keystroke in the background every few minutes. This function will not interfere with normal operation.
 
-Once started, the script will run in the system tray, showing as cmd icon. 
+Once started, the script will run in the system tray, showing as a cmd icon. 
 
 Click on the systray icon to access the start, stop, and pause controls. 
 
